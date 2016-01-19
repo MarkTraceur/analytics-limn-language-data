@@ -17,20 +17,20 @@ reportupdater-reports:
         frequency: months
         granularity: months
         timeboxed: true
-        starts: 2004-01
+        starts: 2004-01-01
         explode_by:
             wiki_db: commonswiki, dewiki, enwiki
     uploaders:
         frequency: months
         granularity: months
         timeboxed: true
-        starts: 2004-01
+        starts: 2004-01-01
         explode_by:
             wiki_db: commonswiki, dewiki, enwiki
     new_uploaders:
         frequency: months
         granularity: months
         timeboxed: true
-        starts: 2004-01
+        starts: 2004-01-01
         explode_by:
             wiki_db: commonswiki, dewiki, enwiki
